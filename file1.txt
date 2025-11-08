@@ -1,3 +1,2 @@
 salam be hame
-horaaaaaa
-salami dobare
+print("Hello word!")
