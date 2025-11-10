@@ -5,3 +5,5 @@ page4
 page5
 page6
     
+
+def __init__ 
