@@ -1,5 +1,5 @@
 salam be hame
 print("Hello word!")
 
-issu55 hal shod gg
-issu55 kamelan hal shod
+def paly(self):
+    self.pashmam
