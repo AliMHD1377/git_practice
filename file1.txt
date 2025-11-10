@@ -3,3 +3,6 @@ print("Hello word!")
 
 def paly(self):
     self.pashmam
+
+def game(self):
+    return "hi"
