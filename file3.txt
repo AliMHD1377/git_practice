@@ -1,4 +1,1 @@
-be name khoda
-
-# docstring1
-# docstring2
+taghirat baraye push jadid.
